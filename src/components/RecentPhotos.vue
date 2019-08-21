@@ -44,7 +44,7 @@
                 }).then((response) => {
                     this.recentPhotos = response.data.photos.photo
                 }).catch((error) => {
-                    
+                    console.log("Error occured: ", error)
                 })
             },
         }
