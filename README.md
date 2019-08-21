@@ -1,5 +1,7 @@
 # vue-flickr
 
+Demo: https://vue-flickr.netlify.com
+
 ## Project setup
 ```
 npm install
